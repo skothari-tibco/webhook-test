@@ -4,4 +4,4 @@ git add .
 
 git commit -am "$1 commit"
 
-git push
+git push 
